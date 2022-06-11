@@ -33,3 +33,8 @@ build/
 .vscode/
 .mvn/
 .apt_generated_tests/
+
+node_modules/
+package-lock.json
+
+venv/
