@@ -9,9 +9,9 @@
     </parent>
 
     <groupId>com.wangxiaohu</groupId>
-    <artifactId>spring-graphql-demo</artifactId>
+    <artifactId>dgs-graphql-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-graphql-demo</name>
+    <name>dgs-graphql-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
